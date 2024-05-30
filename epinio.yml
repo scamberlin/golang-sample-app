@@ -1,5 +1,6 @@
-name: zanzibar
+name: sample
 staging:
   builder: "dashaun/builder-arm:tiny"
 origin:
-  path: .
+  git: 
+    url: https://github.com/scamberlin/golang-sample-app.git
