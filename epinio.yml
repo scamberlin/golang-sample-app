@@ -1,0 +1,5 @@
+name: zanzibar
+staging:
+  builder: "dashaun/builder-arm:tiny"
+origin:
+  path: .
